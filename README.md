@@ -6,7 +6,7 @@
 	* Importing the dataset
 	* Splitting the data into test set and training set
 	* Feature Scalling (Standardisation, Normalisation)
-2. **Classification**
+ **Classification**
 
 	* MLP Classifier
 	* Logistic Regression
@@ -19,7 +19,7 @@
 	* Quadratic Discriminant Analysis (QDA)
 	* Gradient Boosting Machines (GBM)
 	* Adaptive Boosting (AdaBoost)
-3. **Regression**
+ **Regression**
 
 	* BayesianRidge Regression
 	* ElasticNet Regression
@@ -33,7 +33,7 @@
 	* PLSRegression
 	* Lasso Regression
 	* GradientBoosting Regressor
-4. **Clustering**
+**Clustering**
 
 	* K-Means Clustering 
 	* Hierarchical Clustering
@@ -53,7 +53,7 @@
 	* Spectral Clustering
         * Statistical Information Grid (STING)
 
-5. **Data reduction and visualization techniques**
+**Data reduction and visualization techniques**
 
 	* Principal Component Analysis (PCA)
 	* Canonical Correspondence Analysis (CCA)
@@ -69,7 +69,7 @@
 	* Multiple Correspondence Factor Analysis (MCFA)
 	* Robust Principal Component Analysis (RPCA)
 	
-6. **Approximate-Nearest-Neighbors-Algorithms**
+**Approximate-Nearest-Neighbors-Algorithms**
 
 	* Approximate Nearest Neighbors Oh Yeah (Annoy)
 	* BallTree
