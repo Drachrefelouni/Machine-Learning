@@ -55,11 +55,6 @@
 
 5. **Data reduction and visualization techniques**
 
-	pip install scikit-learn  # For all data analysis methods
-	pip install prince  # For Multiple Correspondence Analysis (MCA), Multiple Correspondence Factor Analysis (MCFA)
-	pip install factor-analyzer  # For Exploratory Factor Analysis (EFA), Correspondence Factor Analysis (CFA), Hierarchical Factor Analysis (HFA), Discriminant Factor Analysis (DFA), Independent Component Analysis (ICA)
-	pip install hdbscan  # For Hierarchical Density-Based Spatial Clustering of Applications with Noise (HDBSCAN)
-
 	* Principal Component Analysis (PCA)
 	* Canonical Correspondence Analysis (CCA)
 	* Correspondence Analysis (CA)
