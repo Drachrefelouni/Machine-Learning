@@ -68,7 +68,6 @@
 	* Multiple Correspondence Analysis (MCA)
 	* Multiple Correspondence Factor Analysis (MCFA)
 	* Robust Principal Component Analysis (RPCA)
-	
 **Approximate-Nearest-Neighbors-Algorithms**
 
 	* Approximate Nearest Neighbors Oh Yeah (Annoy)
