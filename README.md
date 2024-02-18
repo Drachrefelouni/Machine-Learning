@@ -86,6 +86,5 @@
 	* Fast Library for Approximate Nearest Neighbors with Cone Trees (Falconn)
 	* Hierarchical Navigable Small World (HNSW)
 	* Multiprobe Randomized KD-Trees (MRPT)
-	
-	
+ 
 Contact: achref.el.ouni@outlook.fr
