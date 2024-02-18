@@ -1,7 +1,7 @@
 
 ##Code and implementation of the following topics and techniques:
 
-1. **Data Preprocessin**
+**Data Preprocessin**
 
 	* Importing the dataset
 	* Splitting the data into test set and training set
