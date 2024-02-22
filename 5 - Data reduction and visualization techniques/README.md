@@ -5,6 +5,7 @@
 **Data reduction and visualization techniques**
 
 	* Principal Component Analysis (PCA)
+ 	* T-distributed Stochastic Neighbor Embedding (t-SNE)
 	* Canonical Correspondence Analysis (CCA)
 	* Correspondence Analysis (CA)
 	* Correspondence Factor Analysis (CFA)
